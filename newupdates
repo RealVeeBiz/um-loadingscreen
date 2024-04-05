@@ -1,19 +1,23 @@
-Patch-note: 
+Patch-note 0.40
 
 [Illégal]
-⁍ {Fix} car boosting la couleur des zone est maintenant mauve
-⁍ {Ajout} Ajout laboratoire drogue
+⁍ Fix car boosting la couleur des zone est maintenant mauve
+⁍  Ajout laboratoire drogue
+
 [Job WL]
-⁍ {Ajout} Les paies au augmenter de moitié même voire plus !
-⁍ {Ajout} Push in & out benny's
+⁍ Ajout Les paies au augmenter de moitié même voire plus !
+⁍ Ajout Push in & out benny's
 
 [Activite]
-⁍ {Ajout} Du paintball ( A tester avec l'anticheat)
+⁍ Ajout Du paintball ( A tester avec l'anticheat)
 
 [Police]
-⁍ {Fix} Les alertes de braquage Fleeca / pacifique / ATM
+⁍ Fix Les alertes de braquage Fleeca / pacifique / ATM
 
 [TELEPHONE]
 ⁍ Ajout option Push in & out
+
+[STRESS]
+⁍ Ajout du stress
 
 Et fautre petit fix gauche droite :D
