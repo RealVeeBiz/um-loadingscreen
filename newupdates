@@ -1,13 +1,19 @@
 Patch-note: 
 
-[GARAGE]
-⁍ Fix garage qui verifiait mal les places disponibles
-⁍ Ajout de place disponibles pour sortir le véhicule
-⁍ Ajout garage d'ambulance + Vehicule de doit maintenant et acheter 
+[Illégal]
+⁍ {Fix} car boosting la couleur des zone est maintenant mauve
 
-[MLO]
-⁍ Fix garage qui verifiait mal les places disponibles
-⁍ Changement MLO ltd mirroir park 
+[Job WL]
+⁍ {Ajout} Les paies au augmenter de moitié même voire plus !
+⁍ {Ajout} Push in & out benny's
 
-[PERSONAGE]
-⁍ Changement menu personne + loading screen
+[Activiter]
+⁍ {Ajout} Du paintball ( A voir avec l'anticheat)
+
+[Police]
+⁍ {Fix} Les alertes de braquage Fleeca / pacifique / ATM
+
+[TELEPHONE]
+⁍ Ajout option Push in & out
+
+Et fautre petit fix gauche droite :D
