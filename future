@@ -1,7 +1,7 @@
 Patch-note
 
 👜 Inventaire
-- Ajout option d'empiler des objets a +- 5% de durabilité de difference
+- Ajout option d'empiler des objets a +- 5% de durabilité de difference ( Il va prendre la durabilite le moins )
 
 🏎️ Garage 
 - Ajout d'une commande admin pour retirer vehicule actif dans le server-side 
