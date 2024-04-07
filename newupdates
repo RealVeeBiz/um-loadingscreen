@@ -1,23 +1,17 @@
-Patch-note 0.40
+Patch-note
 
-[Illégal]
-⁍ Fix car boosting la couleur des zone est maintenant mauve
-⁍  Ajout laboratoire drogue
+👜 Inventaire
+- Ajout option d'empiler des objets a +- 5% de durabilité de difference ( Il va prendre la durabilite le moins )
 
-[Job WL]
-⁍ Ajout Les paies au augmenter de moitié même voire plus !
-⁍ Ajout Push in & out benny's
+🤸 Tirer
+- Retrait de la roulade quand on tire
 
-[Activite]
-⁍ Ajout Du paintball ( A tester avec l'anticheat)
+🏎️ Garage 
+- Ajout d'une commande admin pour retirer vehicule actif dans le server-side 
 
-[Police]
-⁍ Fix Les alertes de braquage Fleeca / pacifique / ATM
+ℹ️ Centre d'emploi / Carte identité
+- Refonte du systeme d'emploi
 
-[TELEPHONE]
-⁍ Ajout option Push in & out
-
-[STRESS]
-⁍ Ajout du stress
-
-Et fautre petit fix gauche droite :D
+🏎️ Boosting 
+- Descente du montant d'argent recu apres un boost
+- Fix de certain prix
