@@ -1,1 +1,10 @@
 Patch-note
+
+👜 Inventaire
+- Ajout option d'empiler des objets a +- 5% de durabilité de difference
+
+🏎️ Garage 
+- Ajout d'une commande admin pour retirer vehicule actif dans le server-side 
+
+ℹ️ Centre d'emploi / Carte identité
+- Refonte du systeme d'emploi
