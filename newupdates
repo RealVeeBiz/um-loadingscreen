@@ -1,17 +1,6 @@
 Patch-note
 
-👜 Inventaire
-- Ajout option d'empiler des objets a +- 5% de durabilité de difference ( Il va prendre la durabilite le moins )
-
-🤸 Tirer
-- Retrait de la roulade quand on tire
-
 🏎️ Garage 
-- Ajout d'une commande admin pour retirer vehicule actif dans le server-side 
-
-ℹ️ Centre d'emploi / Carte identité
-- Refonte du systeme d'emploi
-
-🏎️ Boosting 
-- Descente du montant d'argent recu apres un boost
-- Fix de certain prix
+- Retrait ancien garage 
+- Ajout nouveau garage + Fourriere + Les chars depoperons pu jamais + Modification qui tien ( Tester 58x en ligne pis y colle )
+- Grrr
