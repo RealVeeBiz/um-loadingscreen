@@ -1,8 +1,8 @@
 Patch-note 0.14
-:ambulance: Ambulance 
+🚑 Ambulance 
 - Retrait de la possibilité de pointer et de lever les mains quand on est au sol
 
-:pick: Mine / Fonderie 
+⛏️ Mine / Fonderie 
 - Baisse du temps lors d'une action de mine 
 - Modification de l'experience en minant 
 - Ajout pepitte de cuivre a la vente 
@@ -10,19 +10,19 @@ Patch-note 0.14
 - Ajout de risque de briser sa pioche (2%)
 - Ajout du charbon actif a la fonderie
 
-:alembic: L'héroine debarque ⚗
+⚗️ L'héroine debarque ⚗
 - Ajout de la drogue héroine avec recette a suivre 
 - Ajout de la possibilité de faire seringue ou sachet
 - Effet sur les seringues
 - Ajout laboratoire d'héroine
 
-:test_tube: Drogue 
+🧪 Drogue 
 - Ajout d'un timer apres une vente de drogue pour pas que les joueur puisse abuser de la vente ( 2 seconde )
 - Modification prix drogue
 
-:gun: Braquage 
+🔫 Braquage 
 - Modification du temps pour prendre l'argent dans le coffre a l'arriere ( Pour laisser le temps a la police )
 
-:police_officer: Dispatch police 
+👮 Dispatch police 
 - Modification du systeme de dispatch 
 - Ajout alarme pour chaque braquage & action suspecte
