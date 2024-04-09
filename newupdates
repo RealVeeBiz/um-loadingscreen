@@ -1,6 +1,27 @@
 Patch-note
+🚑 Ambulance 
+- Retrait de la possibilité de pointer et de lever les mains quand on est au sol
 
-🏎️ Garage 
-- Retrait ancien garage 
-- Ajout nouveau garage + Fourriere + Les chars depoperons pu jamais + Modification qui tien ( Tester 58x en ligne pis y colle )
-- Grrr
+⛏️ Mine / Fonderie 
+- Baisse du temps lors d'une action de mine 
+- Modification de l'experience en minant 
+- Ajout pepitte de cuivre a la vente 
+- Ajout de l'experience fonderie
+- Ajout de risque de briser sa pioche (2%)
+
+⚗️ L'héroine debarque ⚗
+- Ajout de la drogue héroine avec recette a suivre 
+- Ajout de la possibilité de faire seringue ou sachet
+- Effet sur les seringues
+- Ajout laboratoire d'héroine
+
+🧪 Drogue 
+- Ajout d'un timer apres une vente de drogue pour pas que les joueur puisse abuser de la vente ( 2 seconde )
+- Modification prix drogue
+
+🔫 Braquage 
+- Modification du temps pour prendre l'argent dans le coffre a l'arriere ( Pour laisser le temps a la police )
+
+👮 Dispatch police 
+- Modification du systeme de dispatch 
+- Ajout alarme pour chaque braquage & action suspecte
